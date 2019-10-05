@@ -6,7 +6,11 @@ public class Main {
 
 	public static void main(String[] args) {
 		Window_User w = new Window_User();
+<<<<<<< HEAD
 		System.out.println("Hello World");
+=======
+
+>>>>>>> master
 	}
 
 }
